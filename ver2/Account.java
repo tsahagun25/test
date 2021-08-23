@@ -2,6 +2,7 @@ package ver2;
 
 public class Account {
 	private double balance;
+	//new comment
 	private String name;
 
 	public String getName() {
